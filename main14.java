@@ -1,4 +1,4 @@
-public class main02 {
+public class main14 {
     public static void main(String[] args) {
         Employee e1 = new Employee(95, "thắng", "nguyễn",10000000);
         System.out.println(e1);
@@ -8,6 +8,5 @@ public class main02 {
         System.out.println("name is: " + e1.getName());
         System.out.println("annualSalary is: " + e1.getAnnualSalary());
         System.out.println(e1.raiseSalary(10));
-        System.out.println(e1);
     }
 }
