@@ -1,3 +1,5 @@
+package Bai1_2;
+
 public class circle12 {
     private double radius = 1.0;
     public circle12() {

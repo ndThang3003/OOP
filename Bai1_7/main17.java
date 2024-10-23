@@ -1,3 +1,5 @@
+package Bai1_7;
+
 public class main17 {
     public static void main(String[] args) {
         Date d1 = new Date(1, 2, 2014);

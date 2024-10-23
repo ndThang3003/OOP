@@ -1,3 +1,5 @@
+package Bai2_1;
+
 public class main21 {
     public static void main(String[] args) {
         author a1 = new author("Thang", "thangnd24ite@vku", 'm' );

@@ -1,3 +1,5 @@
+package Bai1_7;
+
 public class Date {
     private int day;
     private int month;
@@ -7,8 +9,7 @@ public class Date {
         this.month = month;
         this.year = year;
     }
-    public int getDay() {
-        return day;
+    public int getDay() {return day;
     }
     public int getMonth() {
         return month;

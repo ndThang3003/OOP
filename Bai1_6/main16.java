@@ -1,3 +1,5 @@
+package Bai1_6;
+
 public class main16 {
     public static void main(String[] args) {
         account a1 = new account("A5", "Thang", 88);

@@ -1,3 +1,5 @@
+package Bai2_1;
+
 public class author {
     private String name;
     private String email;
@@ -22,7 +24,7 @@ public class author {
 
     @Override
     public String toString() {
-        return "author{" +
+        return "Bai2_1.author{" +
                 "name='" + name + '\'' +
                 ", email='" + email + '\'' +
                 ", gender=" + gender +

@@ -1,3 +1,5 @@
+package Bai1_6;
+
 public class account {
     private String id;
     private String name;
@@ -38,7 +40,7 @@ public class account {
 
     @Override
     public String toString() {
-        return "account{" +
+        return "Bai1_6.account{" +
                 "id='" + id + '\'' +
                 ", name='" + name + '\'' +
                 ", balance=" + balance +

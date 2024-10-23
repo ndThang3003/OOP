@@ -1,3 +1,5 @@
+package Bai1_4;
+
 public class Employee {
     private int ID;
     private String firstname;
@@ -33,7 +35,7 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "Bai1_4.Employee{" +
                 "ID=" + ID +
                 ", firstname='" + firstname + '\'' +
                 ", lastname='" + lastname + '\'' +

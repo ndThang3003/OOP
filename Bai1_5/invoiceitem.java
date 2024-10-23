@@ -1,3 +1,5 @@
+package Bai1_5;
+
 public class invoiceitem {
     private String ID;
     private String desc;
@@ -33,7 +35,7 @@ public class invoiceitem {
 
     @Override
     public String toString() {
-        return "invoiceitem{" +
+        return "Bai1_5.invoiceitem{" +
                 "ID='" + ID + '\'' +
                 ", desc='" + desc + '\'' +
                 ", qty=" + qty +

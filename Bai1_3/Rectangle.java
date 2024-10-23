@@ -1,3 +1,5 @@
+package Bai1_3;
+
 public class Rectangle {
     private float lenght = 1.0f;
     private float width = 1.0f;
@@ -29,7 +31,7 @@ public class Rectangle {
 
     @Override
     public String toString() {
-        return "Rectangle{" +
+        return "Bai1_3.Rectangle{" +
                 "lenght=" + lenght +
                 ", width=" + width +
                 '}';
